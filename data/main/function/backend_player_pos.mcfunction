@@ -1,1 +1,0 @@
-execute as @a at @s store result score @s playerPos run data get entity @s Pos[1] 1

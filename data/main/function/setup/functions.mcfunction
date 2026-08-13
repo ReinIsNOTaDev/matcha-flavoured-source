@@ -1,2 +1,0 @@
-function main:mechanic/estus
-function main:mechanic/only_undead_surface
